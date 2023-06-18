@@ -14,7 +14,7 @@ Shell script that displays a digital clock on the command line. It shows the cur
 
 To run the digital clock script, execute the following command in your terminal:
 
-./digital_clock.sh
+./digi_clock.sh
 
 The clock will start displaying the current time and update every second until you terminate the script.
 ## Customization
